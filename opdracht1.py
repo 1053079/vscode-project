@@ -22,7 +22,6 @@ print(23.95/(32.9+6))
 
 name="John Doe"
 print(name)
-
 street = 'Neverland Lane'
 print(street)
 
