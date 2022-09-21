@@ -12,4 +12,3 @@ pygame.display.set_caption("Hello World Printer")
 myFont = pygame.font.Sysfont("Segoe UI",90)
 HelloWorld = myFont.render("Hello World",1, (255, 0, 255), (255, 255, 255))
 
-except
